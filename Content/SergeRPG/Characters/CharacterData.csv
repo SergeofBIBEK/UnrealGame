@@ -1,0 +1,7 @@
+,CharacterName,CurrentHP,MaxHP,CurrentMP,MaxMP,CurrentOP,MaxOP,Strength,Magic,Defense,Resistance,Speed,Luck
+Serge,Serge,500,500,10,10,100,100,10,10,10,10,20,30
+Jennifer,Jennifer,400,400,10,10,100,100,8,8,8,8,15,15
+Jason,Jason,500,500,10,10,100,100,12,5,10,8,10,10
+Shaun,Shaun,300,300,10,10,100,100,15,5,15,15,8,10
+Eric,Eric,200,200,10,10,100,100,5,15,5,20,10,10
+Shirley,Shirley,700,700,10,10,100,100,8,8,20,20,10,10
